@@ -6,7 +6,7 @@ export default function WhatIDo() {
     <div className="container">
       <div className="custom_heading-container">
         <h2>
-          What we do
+          What I do
         </h2>
       </div>
       <div className="row">

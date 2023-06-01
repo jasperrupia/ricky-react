@@ -2,6 +2,7 @@
 import './App.css';
 
 import About from './components/About';
+// import Script from './components/Script'
 import Client from './components/Client';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -36,11 +37,7 @@ function App() {
       <Contact />
       <Info />
       <Footer />
-
-      <script src="js/jquery-3.4.1.min.js"></script>
-      <script src="js/bootstrap.js"></script>
-      <script src="js/circles.min.js"></script>
-      <script src="js/custom.js"></script>
+      {/* <Script /> */}
     </>
   ); 
 }

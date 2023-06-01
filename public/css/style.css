@@ -486,6 +486,7 @@ a:focus {
 
 .client_section .client_box .client-id .img-box {
   border-radius: 10px;
+  width: 100px;
   overflow: hidden;
 }
 
